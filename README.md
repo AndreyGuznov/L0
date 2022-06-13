@@ -1,0 +1,1 @@
+GET /id >> take product by id >> 200, 404, 500

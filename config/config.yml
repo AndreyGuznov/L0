@@ -1,0 +1,6 @@
+storage:
+  username: postgre
+	password: postgre
+	host: localhost
+	port: 4321
+	database: h0
